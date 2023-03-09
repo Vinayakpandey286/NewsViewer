@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "ABP News Bureau",
+      "title": "Breaking News Live: Doctor, Wife Among 5 Dead In Fire In Hospital Residential Complex In Jharkhand's Dhanbad",
+      "description": "Breaking News LIVE: Follow this page for all the updates and Breaking News from India and around the world.",
+      "url": "https://news.abplive.com/news/breaking-nhttps:ews-live-updates-january-28-pm-modi-congress-weather-update-delhi-cm-kejriwal-rahul-gandhi-bharat-jodo-yatra-pariksha-pe-charcha-kashmir-banihal-1578461",
+      "urlToImage": "//feeds.abplive.com/onecms/images/uploaded-images/2023/01/28/2e3cadf48174d097c39374adc6f5a0c91674880532207594_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+      "publishedAt": "2023-01-28T04:41:25+00:00",
+      "content": "Breaking News LIVE: Hello and welcome to ABP Live. Follow ABP Live's blog to get the latest developments, breaking news, latest updates, and other developing stories across the country and abroad.\r\nP… [+2302 chars]"
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "Kunal Gaurav",
+      "title": "BBC-Modi row: Tharoor targets people in 'secular camp' over 'move on' charge",
+      "description": "The first part of the BBC documentary revives the most controversial episode of Prime Minister Modi’s political career when he was the chief minister of Gujarat in 2002. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/bbc-series-on-modi-tharoor-denies-asking-indians-to-move-on-i-believe-101674870535877.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2023/01/28/1600x900/tharoor_on_bbc_modi_documentary_gujarat_riots_1674874299242_1674874299461_1674874299461.jpg",
+      "publishedAt": "2023-01-28T02:59:36+00:00",
+      "content": "Congress leader Shashi Tharoor on Saturday said he never asked people of India to move on from the 2002 Gujarat riots as a BBC documentary on Prime Minister Narendra Modi brought the violent chapter … [+2129 chars]"
+    },
+    {
+      "source": { "id": "breitbart-news", "name": "Breitbart News" },
+      "author": "Pam Key",
+      "title": "Pence: 'Mistakes Were Made' Handling Classified Records -- 'I Take Full Responsibility'",
+      "description": "Former Vice President Mike Pence said Friday on Fox News Channel's \"America Reports\" that he takes \"full responsibility\" for the classified documents found at his Indiana home. | Clips",
+      "url": "https://www.breitbart.com/clips/2023/01/27/pence-mistakes-were-made-handling-classified-records-i-take-full-responsibility/",
+      "urlToImage": "https://media.breitbart.com/media/2022/10/Mike-Pence-640x335.jpg",
+      "publishedAt": "2023-01-27T23:11:11Z",
+      "content": "Former Vice President Mike Pence said Friday on Fox News Channel’s “America Reports” that he takes “full responsibility” for the classified documents found at his Indiana home.\r\nCorrespondent Rich Ed… [+1115 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "ADRIANA GOMEZ LICON",
+      "title": "Pence: 'Mistakes were made' in classified records handling",
+      "description": "MIAMI (AP) — Former Vice President Mike Pence said Friday that he takes “full responsibility” after classified documents were found at his Indiana home.",
+      "url": "https://apnews.com/c4b11d44f11605ccb055a77d54eb2303",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b7b9281d838e496280db723e25325c36/3000.jpeg",
+      "publishedAt": "2023-01-27T20:29:23Z",
+      "content": "MIAMI (AP) — Former Vice President Mike Pence said Friday that he takes “full responsibility” after classified documents were found at his Indiana home.In his first public comments since the discover… [+3365 chars]"
+    }
+    
+  ]
+}
