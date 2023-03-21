@@ -32,7 +32,7 @@ export class Navbar extends Component {
             </nav>
       </div>
     )
-  }
+  } 
 }
 
 export default Navbar
